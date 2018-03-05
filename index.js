@@ -1,8 +1,6 @@
 var a = 5
-var b = 6
 
 function addNum(){
-  a + b
+  a += 10
 }
 
-return(a,b)
